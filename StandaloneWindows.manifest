@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 580047350
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modle
+      Dependencies: {}
+    Info_1:
+      Name: skin_chef
+      Dependencies: {}

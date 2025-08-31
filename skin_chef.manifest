@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2712802441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 370be83d2749ca36322094aebe2999d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7f320ca7f492377081b05ce49812dc0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 370be83d2749ca36322094aebe2999d2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4bc289320fea7145b4c6aaed7d90a31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51c9e964ab7f2ae48bc89608378f229b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61c7f964e66d9624d9ab5e2ed782151c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/PlayerCharacter.prefab
+Dependencies: []

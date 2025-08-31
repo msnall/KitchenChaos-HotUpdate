@@ -1,0 +1,20 @@
+{
+    "resVersion": "20250831143712",
+    "files": [
+        {
+            "name": "modle",
+            "md5": "61c1a2918edd1556a774c6102b0c641f",
+            "size": 138176
+        },
+        {
+            "name": "skin_chef",
+            "md5": "d8f8f208392ebc9f0276270e1a336b7b",
+            "size": 377616
+        },
+        {
+            "name": "StandaloneWindows",
+            "md5": "babca38545a45498d695be2ba60efc7b",
+            "size": 4384
+        }
+    ]
+}
