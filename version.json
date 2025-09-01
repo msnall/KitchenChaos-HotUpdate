@@ -1,5 +1,5 @@
 {
-    "resVersion": "20250901152244",
+    "resVersion": "20250901170703",
     "files": [
         {
             "name": "modle",
@@ -18,8 +18,8 @@
         },
         {
             "name": "version.json",
-            "md5": "8903016a8297cd4b14c02150026bdb31",
-            "size": 467
+            "md5": "1d2f3521f7339adad32bf17105520af7",
+            "size": 603
         }
     ]
 }
