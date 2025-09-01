@@ -1,5 +1,5 @@
 {
-    "resVersion": "20250901141935",
+    "resVersion": "20250901152244",
     "files": [
         {
             "name": "modle",
@@ -8,13 +8,18 @@
         },
         {
             "name": "skin_chef",
-            "md5": "65530f2adf92056cb9fff67f3491f81a",
-            "size": 97783
+            "md5": "51379575f4aeb7683df20573e14b7a90",
+            "size": 96649
         },
         {
             "name": "StandaloneWindows",
-            "md5": "1ee20798c649431c9b3709e5054a05a0",
+            "md5": "75129c6c2c6aeb9bf3b50ff29bb07967",
             "size": 1600
+        },
+        {
+            "name": "version.json",
+            "md5": "8903016a8297cd4b14c02150026bdb31",
+            "size": 467
         }
     ]
 }
