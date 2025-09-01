@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2712802441
+CRC: 3126313623
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 370be83d2749ca36322094aebe2999d2
+    Hash: 3fef82ea2d9bd345da9723ff19a51dbf
   TypeTreeHash:
     serializedVersion: 2
     Hash: d7f320ca7f492377081b05ce49812dc0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 370be83d2749ca36322094aebe2999d2
+    Hash: 3fef82ea2d9bd345da9723ff19a51dbf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -54,5 +54,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/PlayerCharacter.prefab
+- Assets/Prefabs/ChefSkinPrefab.prefab
 Dependencies: []

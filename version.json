@@ -1,20 +1,20 @@
 {
-    "resVersion": "20250831143712",
+    "resVersion": "20250901141935",
     "files": [
         {
             "name": "modle",
-            "md5": "61c1a2918edd1556a774c6102b0c641f",
-            "size": 138176
+            "md5": "665f351640cac1759d2d9fd6383d6b0c",
+            "size": 43717
         },
         {
             "name": "skin_chef",
-            "md5": "d8f8f208392ebc9f0276270e1a336b7b",
-            "size": 377616
+            "md5": "65530f2adf92056cb9fff67f3491f81a",
+            "size": 97783
         },
         {
             "name": "StandaloneWindows",
-            "md5": "babca38545a45498d695be2ba60efc7b",
-            "size": 4384
+            "md5": "1ee20798c649431c9b3709e5054a05a0",
+            "size": 1600
         }
     ]
 }
