@@ -1,10 +1,13 @@
 ManifestFileVersion: 0
-CRC: 4125506014
+CRC: 4169459197
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: modle
       Dependencies: {}
     Info_1:
-      Name: skin_chef
+      Name: skin_default.ab
+      Dependencies: {}
+    Info_2:
+      Name: skin_chef.ab
       Dependencies: {}
